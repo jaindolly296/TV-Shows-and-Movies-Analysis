@@ -204,7 +204,7 @@ Data Analyst | Python | SQL | Power BI | Excel
 
 GitHub: https://github.com/jaindolly296
 
-LinkedIn: https://linkedin.com/in/Dolly-singh-data-analyst
+LinkedIn: https://www.linkedin.com/in/dollyjain296
 
 ---
 
